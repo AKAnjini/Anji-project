@@ -155,7 +155,7 @@ button{
     margin-top: 15%;
 
 }
-.im{
+
     /* display: flex;
     flex-direction: column;
     /* justify-content: center; */
@@ -163,8 +163,7 @@ button{
     justify-content: center;
     justify-items: center; */ 
     
-}
-.im img{
+. img{
     width: 7vw;
     height: 11.5vh;
     display: flex;
@@ -172,3 +171,4 @@ button{
     justify-content: center;
     align-items: center;
 }
+
